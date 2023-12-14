@@ -1,0 +1,6 @@
+
+banana,香蕉,n.
+apple,苹果,n.
+run,跑,v.
+good,好的,adj.
+suddenly,突然地,adv.
